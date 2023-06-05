@@ -1,0 +1,16 @@
+#h3Filter {
+  text-align: center;
+}
+
+.buttons {
+  margin: 0 0 12px 0;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.reset {
+  margin: 0 0 12px 0;
+  display: flex;
+  justify-content: center;
+}
