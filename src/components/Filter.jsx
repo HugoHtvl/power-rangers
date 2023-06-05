@@ -3,7 +3,7 @@ import "./Filter.css";
 const Filter = ({ handleFilter, handleReset }) => {
   return (
     <>
-      <h3 id="h3Filter">Choose your ranger sex :</h3>
+      <h3 id="h3Filter">Choose your ranger's sex :</h3>
       <div className="buttons">
         <button onClick={() => handleFilter("male")}>Male</button>
         <button onClick={() => handleFilter("female")}>Female</button>
